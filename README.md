@@ -22,12 +22,13 @@ To run this pipeline, you need Python installed along with the following librari
 1. Clone the Repository
 Bash
 git clone https://github.com/yourusername/protein-analysis-pipeline.git
-cd protein-analysis-pipeline
+cd Protein-Analysis-tool-Using-Biopython-package-and-Streamlit
+
 2. Install Dependencies
 Run the following command to install the required Python packages:
 Bash
 pip install biopython nglview matplotlib ipywidgets requests
-Note for JupyterLab users: You may need to enable the nglview extension:
+**Note for JupyterLab users:** You may need to enable the nglview extension:
 jupyter-labextension install @jupyter-widgets/jupyterlab-manager nglview-js-widgets
 ________________________________________
 **🚀 How to Run**
